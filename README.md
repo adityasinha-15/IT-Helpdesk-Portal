@@ -7,6 +7,9 @@ A modern, AI-powered IT helpdesk system built with Flask, featuring an intellige
 ![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-Enabled-orange)
 
+## Deployed Link
+https://it-helpdesk-1-3o8r.onrender.com
+
 ## 📸 Screenshots
 
 <div align="center">
